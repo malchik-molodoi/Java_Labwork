@@ -6,5 +6,3 @@ hehe
 fetchy
 coll
 coll2
-Hui
-pizda
