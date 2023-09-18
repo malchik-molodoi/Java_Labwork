@@ -16,6 +16,7 @@ public class Main {
         order.addToOrder(new Pill("Валсартан", "Беларусь", 2.29f, 0.2f, 20));
         order.addToOrder(new Spray("Септоллете", "Россия", 5.30f, 0.2f, 150));
 
+
         order.printOrder();
     }
 }
